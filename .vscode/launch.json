@@ -1,0 +1,580 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "J02010",
+            "request": "launch",
+            "mainClass": "J02010",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01010",
+            "request": "launch",
+            "mainClass": "J01010",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01021",
+            "request": "launch",
+            "mainClass": "J01021",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05027",
+            "request": "launch",
+            "mainClass": "J05027",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05020",
+            "request": "launch",
+            "mainClass": "J05020",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05006",
+            "request": "launch",
+            "mainClass": "J05006",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05005",
+            "request": "launch",
+            "mainClass": "J05005",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05004",
+            "request": "launch",
+            "mainClass": "J05004",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05003",
+            "request": "launch",
+            "mainClass": "J05003",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04020",
+            "request": "launch",
+            "mainClass": "J04020",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "Hello1",
+            "request": "launch",
+            "mainClass": "hello1.Hello1",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "bt.hello",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04020",
+            "request": "launch",
+            "mainClass": "Pair.J04020",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04019_LopTriangle1",
+            "request": "launch",
+            "mainClass": "J04019_LopTriangle1",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04019",
+            "request": "launch",
+            "mainClass": "J04019",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J08012",
+            "request": "launch",
+            "mainClass": "J08012",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04018",
+            "request": "launch",
+            "mainClass": "J04018",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "CustomComplexNumberExample",
+            "request": "launch",
+            "mainClass": "CustomComplexNumberExample",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04013",
+            "request": "launch",
+            "mainClass": "J04013",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04012",
+            "request": "launch",
+            "mainClass": "J04012",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04011",
+            "request": "launch",
+            "mainClass": "J04011",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04006",
+            "request": "launch",
+            "mainClass": "J04006",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04014",
+            "request": "launch",
+            "mainClass": "J04014",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04010",
+            "request": "launch",
+            "mainClass": "J04010",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04008",
+            "request": "launch",
+            "mainClass": "J04008",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04009",
+            "request": "launch",
+            "mainClass": "J04009",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "J01001",
+            "request": "launch",
+            "mainClass": "J01001",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01002",
+            "request": "launch",
+            "mainClass": "J01002",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01003",
+            "request": "launch",
+            "mainClass": "J01003",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01004",
+            "request": "launch",
+            "mainClass": "J01004",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01005",
+            "request": "launch",
+            "mainClass": "J01005",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01006",
+            "request": "launch",
+            "mainClass": "J01006",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01007",
+            "request": "launch",
+            "mainClass": "J01007",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01008",
+            "request": "launch",
+            "mainClass": "J01008",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01009",
+            "request": "launch",
+            "mainClass": "J01009",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01011",
+            "request": "launch",
+            "mainClass": "J01011",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01012",
+            "request": "launch",
+            "mainClass": "J01012",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01013",
+            "request": "launch",
+            "mainClass": "J01013",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01014",
+            "request": "launch",
+            "mainClass": "J01014",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01016",
+            "request": "launch",
+            "mainClass": "J01016",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01017",
+            "request": "launch",
+            "mainClass": "J01017",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01018",
+            "request": "launch",
+            "mainClass": "J01018",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01022",
+            "request": "launch",
+            "mainClass": "J01022",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01024",
+            "request": "launch",
+            "mainClass": "J01024",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J01026",
+            "request": "launch",
+            "mainClass": "J01026",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02004",
+            "request": "launch",
+            "mainClass": "J02004",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02005",
+            "request": "launch",
+            "mainClass": "J02005",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02006",
+            "request": "launch",
+            "mainClass": "J02006",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02007",
+            "request": "launch",
+            "mainClass": "J02007",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02008",
+            "request": "launch",
+            "mainClass": "J02008",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02017",
+            "request": "launch",
+            "mainClass": "J02017",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02020",
+            "request": "launch",
+            "mainClass": "J02020",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02034",
+            "request": "launch",
+            "mainClass": "J02034",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02101",
+            "request": "launch",
+            "mainClass": "J02101",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02103",
+            "request": "launch",
+            "mainClass": "J02103",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02104",
+            "request": "launch",
+            "mainClass": "J02104",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02105",
+            "request": "launch",
+            "mainClass": "J02105",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J02106",
+            "request": "launch",
+            "mainClass": "J02106",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03006",
+            "request": "launch",
+            "mainClass": "J03006",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03007",
+            "request": "launch",
+            "mainClass": "J03007",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03008",
+            "request": "launch",
+            "mainClass": "J03008",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03011",
+            "request": "launch",
+            "mainClass": "J03011",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03013",
+            "request": "launch",
+            "mainClass": "J03013",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03033",
+            "request": "launch",
+            "mainClass": "J03033",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03038",
+            "request": "launch",
+            "mainClass": "J03038",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J03039",
+            "request": "launch",
+            "mainClass": "J03039",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04001",
+            "request": "launch",
+            "mainClass": "J04001",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04002",
+            "request": "launch",
+            "mainClass": "J04002",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04003",
+            "request": "launch",
+            "mainClass": "J04003",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04005",
+            "request": "launch",
+            "mainClass": "J04005",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04007",
+            "request": "launch",
+            "mainClass": "J04007",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J04015",
+            "request": "launch",
+            "mainClass": "J04015",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05033",
+            "request": "launch",
+            "mainClass": "J05033",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "J05081",
+            "request": "launch",
+            "mainClass": "J05081",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_fade8d4c"
+        },
+        {
+            "type": "java",
+            "name": "trochoi",
+            "request": "launch",
+            "mainClass": "trochoi",
+            "projectName": "java_fade8d4c"
+        }
+    ]
+}
